@@ -3,7 +3,7 @@
  * Copyright (c) 2022 . All rights reserved.
  * Last modified 07/03/2022, 15:54
  */
-package sg.nphau.clean.principles.solid.s;
+package sg.nphau.clean.principles.solid.srp;
 
 public class SchedulingApplication {
     private Compute compute;

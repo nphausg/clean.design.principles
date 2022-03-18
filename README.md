@@ -13,12 +13,20 @@
 
 ## 👇 Overview
 
+<div align="center"><img src="docs/principles.png" alt="drawing" height="256"/></div>
 
-| #              | Principle                                                 | Java                                                                           
-|----------------|-----------------------------------------------------------|--------------------------------------------------------------------------------
-| 01: Delegation | <img src="docs/delegate.png" alt="drawing" height="256"/> | [Solution](src/sg/nphau/clean/principles/delegation/TicketBookingByAgent.java) |
-| 02: Slap       | <img src="docs/slap.jpg" alt="drawing" height="256"/>     | [Solution](src/sg/nphau/clean/principles/slap/Slap.java)                       |
-| 03: Yagni      | <img src="docs/yagni.jpg" alt="drawing" height="256"/>    | [Solution](src/sg/nphau/clean/principles/yagni/Yagni.java)                     |
+## 👇 Principles
+
+| #                                   | Principle                                                                           | Java                                                                           
+|-------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------
+| 01: Delegation                      | <div align="center"><img src="docs/delegate.png" alt="drawing" height="128"/></div> | [Solution](src/sg/nphau/clean/principles/delegation/DelegationExample.java) |
+| 02: Slap                            | <div align="center"><img src="docs/slap.jpg" alt="drawing" height="128"/></div>     | [Solution](src/sg/nphau/clean/principles/slap/Slap.java)                       |
+| 03: Yagni                           | <div align="center"><img src="docs/yagni.jpg" alt="drawing" height="128"/></div>    | [Solution](src/sg/nphau/clean/principles/yagni/Yagni.java)                     |
+| 04: Single Responsibility Principle | <div align="center"><img src="docs/srp.png" alt="drawing" height="128"/></div>      | [Solution](src/sg/nphau/clean/principles/solid/srp/SRPExample.java) |
+| 05: Open-Closed Principle           | <div align="center"><img src="docs/ocp.png" alt="drawing" height="128"/></div>      | [Solution](src/sg/nphau/clean/principles/solid/ocp/OCPExample.java)        |
+| 06: Liskov Substitution principle   | <div align="center"><img src="docs/lsp.png" alt="drawing" height="128"/></div>      | [Solution](src/sg/nphau/clean/principles/solid/lsp/LSPExample.java) |
+| 07: Interface segregation principle | <div align="center"><img src="docs/isp01.png" alt="drawing" height="128"/></div>    | [Solution](src/sg/nphau/clean/principles/solid/lsp/ISPExample.java) |
+| 08: Dependency Inversion principle  | <div align="center"><img src="docs/dip02.png" alt="drawing" height="128"/></div>    | [Solution](src/sg/nphau/clean/principles/solid/lsp/DIPExample.java) |
 
 ## 🚀 Folder Structure
 
