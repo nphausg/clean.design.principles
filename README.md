@@ -11,7 +11,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-## 👇 Overview
+## 💀 Overview
 
 <div align="center"><img src="docs/principles.png" alt="drawing" height="256"/></div>
 
