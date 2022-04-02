@@ -6,5 +6,5 @@
 package sg.nphau.clean.principles.solid.dip;
 
 public interface ILogger {
-    public void logInformation(String logInfo);
+    void logInformation(String logInfo);
 }

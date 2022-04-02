@@ -7,7 +7,9 @@ package sg.nphau.clean.principles.solid.dip;
 
 public class DIPExample {
     public static void main(String[] args) {
-        LoggingToFile file = new LoggingToFile(new Logger());
-        file.logging();
+        LoggingToFile loggingToFile = new LoggingToFile(new Logger());
+        loggingToFile.logging();
+        LoggingToDb loggingToDb = new LoggingToDb(new Logger());
+        loggingToDb.logging();
     }
 }
