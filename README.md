@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<div align="center"><img src="cover.png" alt="drawing"/></div>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ## 💀 Overview
