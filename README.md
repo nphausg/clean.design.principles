@@ -30,6 +30,20 @@
 | 07: Interface segregation principle | <div align="center"><img src="docs/isp01.png" alt="drawing" height="128"/></div>    | [Solution](src/sg/nphau/clean/principles/solid/lsp/ISPExample.java) |
 | 08: Dependency Inversion principle  | <div align="center"><img src="docs/dip02.png" alt="drawing" height="128"/></div>    | [Solution](src/sg/nphau/clean/principles/solid/lsp/DIPExample.java) |
 
+## 🚀 SOLID
+https://en.wikipedia.org/wiki/SOLID
+
+`S — Single Responsibility principle` : There should never be more than one reason for a class to change. In other words, every class should have only one responsibility.
+
+`O — Open-Closed principle` : Software entities ... should be open for extension, but closed for modification
+
+`L — Liskov Substitution principle`: Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it
+
+`I — Interface Segregation principle`: Clients should not be forced to depend upon interfaces that they do not use.
+
+`D — Dependency Inversion principle`: Depend upon abstractions, not concretions.
+
+
 ## 🚀 Folder Structure
 
 The workspace contains two folders by default, where:
